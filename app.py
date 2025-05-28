@@ -15,7 +15,7 @@ PASS_IND = "KAWINXKRSXINSMAJT9J6"
 UID_SG = "3858426063"
 PASS_SG = "8B5EC22D818D5D7566E00E81C260E4C68E788E00E5E2DA31B426FE585B244D47"
 
-JWT_GEN_URL = "https://ariflexlabs-jwt-gen.onrender.com/fetch-token"
+JWT_GEN_URL = "https://jwt-aditya.vercel.app/token"
 
 VALID_KEYS = ["test", "kawinraju"]
 
